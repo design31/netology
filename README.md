@@ -1,5 +1,5 @@
 # netology Yuriy Kozlov
-## Netology devops course
+## [Netology devops course](https://netology.ru/profile/program/dvpspdc-2/schedule/all)
 
 Задание №2 - 'Описание жизненного цикла задачи' (разработки нового функционала)
 1. Получение ТЗ от заказчика и обсужение различных технических моментов
