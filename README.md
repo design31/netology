@@ -25,5 +25,3 @@
 
 Картинка с файлом md
 ![Картинка с файлом md](img/md.jpg)
-
-#Add some changes
