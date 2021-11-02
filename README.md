@@ -28,5 +28,4 @@
 ![Картинка с файлом md](img/md.jpg)
 new line
 new line
-new line3
-new line 4
+
